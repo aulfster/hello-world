@@ -1,0 +1,19 @@
+{
+  "currOncalls": [
+    "touserig",
+    "jingaog"
+  ],
+  "alsoNotifyList": null,
+  "currStart": "2022-10-24T23:00:00-07:00",
+  "currEnd": "2022-10-31T11:00:00-07:00",
+  "nextOncalls": [
+    "karmurug"
+  ],
+  "prevOncalls": [
+    "rutultha",
+    "rguptacs"
+  ],
+  "teamName": "alexa-voice-sdk-android",
+  "aliasName": null,
+  "aliasType": null
+}
